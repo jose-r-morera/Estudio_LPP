@@ -1,0 +1,15 @@
+[submodule "ejemplos_Coromoto/T4-concurrente"]
+	path = ejemplos_Coromoto/T4-concurrente
+	url = git@github.com:ULL-ESIT-LPP-2324/concurrente.git
+[submodule "ejemplos_Coromoto/1-bloques"]
+	path = ejemplos_Coromoto/1-bloques
+	url = git@github.com:ULL-ESIT-LPP-2324/bloques.git
+[submodule "ejemplos_Coromoto/T5/2-clousures"]
+	path = ejemplos_Coromoto/T5/2-clousures
+	url = git@github.com:ULL-ESIT-LPP-2324/closures.git
+[submodule "ejemplos_Coromoto/T5/3-metaprogramming"]
+	path = ejemplos_Coromoto/T5/3-metaprogramming
+	url = git@github.com:ULL-ESIT-LPP-2324/metaprogramming.git
+[submodule "ejemplos_Coromoto/T5/4-dsl"]
+	path = ejemplos_Coromoto/T5/4-dsl
+	url = git@github.com:ULL-ESIT-LPP-2324/dsl.git
