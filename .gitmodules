@@ -1,8 +1,8 @@
 [submodule "ejemplos_Coromoto/T4-concurrente"]
 	path = ejemplos_Coromoto/T4-concurrente
 	url = git@github.com:ULL-ESIT-LPP-2324/concurrente.git
-[submodule "ejemplos_Coromoto/1-bloques"]
-	path = ejemplos_Coromoto/1-bloques
+[submodule "ejemplos_Coromoto/T5/1-bloques"]
+	path = ejemplos_Coromoto/T5/1-bloques
 	url = git@github.com:ULL-ESIT-LPP-2324/bloques.git
 [submodule "ejemplos_Coromoto/T5/2-clousures"]
 	path = ejemplos_Coromoto/T5/2-clousures
