@@ -13,3 +13,6 @@
 [submodule "ejemplos_Coromoto/T5/4-dsl"]
 	path = ejemplos_Coromoto/T5/4-dsl
 	url = git@github.com:ULL-ESIT-LPP-2324/dsl.git
+[submodule "ejemplos_Coromoto/T2-estructurada-UT"]
+	path = ejemplos_Coromoto/T2-estructurada-UT
+	url = git@github.com:ULL-ESIT-LPP-2324/UT-Figuras-Geometricas.git
