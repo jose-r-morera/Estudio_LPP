@@ -7,12 +7,8 @@ a.metodo_singleton
 
 puts a.class # Sigue siendo String
 # puts a.superclass # No se puede acceder
+puts a.method(:metodo_singleton).owner # Eigenclass
+puts a.method(:metodo_singleton).owner.superclass # String
+puts a.method(:metodo_singleton).owner.class      # Class
 
-class << a
-    puts "b"
-    def metodo_singleton
-        puts "hi"
-    end
-end
-
-a.metodo_singleton
+puts a.method(:+).owner # class --> String

@@ -28,3 +28,6 @@
 [submodule "ejemplos_Coromoto/T3/yard"]
 	path = ejemplos_Coromoto/T3/yard
 	url = git@github.com:ULL-ESIT-LPP-2324/yard-punto.git
+[submodule "ejemplos_Coromoto/T3/variables-y-ctes"]
+	path = ejemplos_Coromoto/T3/variables-y-ctes
+	url = git@github.com:ULL-ESIT-LPP-2324/variables_constantes.git
