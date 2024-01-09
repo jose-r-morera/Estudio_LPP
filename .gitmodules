@@ -16,3 +16,15 @@
 [submodule "ejemplos_Coromoto/T2-estructurada-UT"]
 	path = ejemplos_Coromoto/T2-estructurada-UT
 	url = git@github.com:ULL-ESIT-LPP-2324/UT-Figuras-Geometricas.git
+[submodule "ejemplos_Coromoto/T3/POO"]
+	path = ejemplos_Coromoto/T3/POO
+	url = git@github.com:ULL-ESIT-LPP-2324/POO.git
+[submodule "ejemplos_Coromoto/T3/TDD-Punto"]
+	path = ejemplos_Coromoto/T3/TDD-Punto
+	url = git@github.com:ULL-ESIT-LPP-2324/TDD-Punto.git
+[submodule "ejemplos_Coromoto/T3/Guard"]
+	path = ejemplos_Coromoto/T3/Guard
+	url = git@github.com:ULL-ESIT-LPP-2324/guard-Punto.git
+[submodule "ejemplos_Coromoto/T3/yard"]
+	path = ejemplos_Coromoto/T3/yard
+	url = git@github.com:ULL-ESIT-LPP-2324/yard-punto.git
